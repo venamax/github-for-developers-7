@@ -2,4 +2,4 @@
  - [ ] *Caracas, Venezuela*
  - [ ] salmon
  - [ ] kitesurfing
- - [] color is blue
+ - [ ] **color is blue**
