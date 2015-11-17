@@ -4,3 +4,4 @@
  - [ ] kitesurfing
  - [ ] **color is blue**
  - what's your favorite color?
+ - Favorite color: **blue**
