@@ -2,4 +2,6 @@
  - [ ] *Caracas, Venezuela*
  - [ ] salmon
  - [ ] kitesurfing
- - [] color is blue
+ - [ ] **color is blue**
+ - what's your favorite color?
+ - Favorite color: **blue**
